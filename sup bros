@@ -1,5 +1,8 @@
 # you don't really have to edit this if you want, but you can
 html, body {
 	background: #ffffff !important; 
-  font family:'comic sans'
+  font family:'comic sans', sans-serif;
+         color: #e2e2e2
+	 
+	 }
   
